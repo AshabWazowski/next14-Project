@@ -1,3 +1,4 @@
+"use client";
 import Marquee from "@/components/ui/marquee";
 import { cn } from "@/lib/utils";
 
